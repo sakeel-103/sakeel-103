@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakeel-103&label=Profile%20views&color=0e75b6&style=flat" alt="sakeel-103" /> </p>
 
-- 🔭 I’m currently working on **Skills & DSA in Java.**
+- 🔭 I’m currently working on my **Skills & DSA in Java.**
 
 - 🌱 I’m currently learning **MERN STACK.**
 
