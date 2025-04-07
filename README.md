@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my **Skills & DSA in Java.**
 
-- 🌱 I’m currently learning **MERN STACK.**
+- 🌱 I’m Skilled in **MERN STACK.**
 
 - 📫 How to reach me **mdsakeel.sadabnoor786@gmail.com**
 
