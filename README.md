@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Mohmmad Sakeel</h1>
-<h3 align="center">An enthusiastic and ambitious student passionate about Web Development.</h3>
+<h3 align="center">An enthusiastic and ambitious student passionate about Data Analyst || Web Development.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakeel-103&label=Profile%20views&color=0e75b6&style=flat" alt="sakeel-103" /> </p>
 
-- 🔭 I’m currently working on my **Skills & DSA in Java.**
+- 🔭 I’m currently working on my ** Data Analyst || Data Analytics**
 
 - 🌱 I’m Skilled in **MERN STACK.**
 
