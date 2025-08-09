@@ -33,8 +33,8 @@ An **interactive Excel dashboard** for analyzing employee working hours and cust
 
 <div align="center">
   
-![Excel Dashboard Screenshot](<img width="1666" height="680" alt="image" src="https://github.com/user-attachments/assets/da63dff7-3f59-4892-906b-42a5d82ff066" />
-)
+<img width="1666" height="680" alt="image" src="https://github.com/user-attachments/assets/06f5004d-efdb-4dac-9ba8-93debca57327" />
+
 
 </div>
 
