@@ -46,3 +46,27 @@ An **interactive Excel dashboard** for analyzing employee working hours and cust
 
 📥 **[Download the Excel Dashboard]([https://github.com/sakeel-103/Excel-dashboard-working-hours/raw/master/Excel-Dashboard-Working-Hours.xlsm](https://github.com/sakeel-103/Excel-dashboard-working-hours.git))**  
 *(Open in Microsoft Excel 2016 or later and enable macros for full functionality)*
+
+====================================================================
+
+## Excel-dashboard-working-hours_2
+
+# 📊 Excel Dashboard - Working Hours & Performance Tracker
+
+This project is an **interactive Excel dashboard** designed to track, visualize, and analyze **working hours and performance metrics**.  
+It helps professionals, teams, and managers to **monitor daily, weekly, and monthly productivity** using automated charts, KPIs, and macro-enabled functionalities.
+
+---
+## Screenshot
+
+<img width="1770" height="723" alt="image" src="https://github.com/user-attachments/assets/ac946443-b6ea-4b02-b9b0-5d47560b52b0" />
+
+
+## 📂 Project Files
+
+| File Name | Description |
+|-----------|-------------|
+| `Excel-Dashboard-Working-Hours.xlsm` | Main macro-enabled Excel dashboard file |
+| `README.md` | Documentation and usage guide |
+
+
