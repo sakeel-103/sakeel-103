@@ -8,7 +8,7 @@
 
 - 🔭 I’m skilled in ** MERN Stack **
 
-- 🌱 I’m currently working on my **Data Analyst || Data Analytics**
+- 🌱 I’m currently working on my **Data Analyst || Data Analytics** Skill
 
 - 📫 How to reach me **mdsakeel.sadabnoor786@gmail.com**
 
