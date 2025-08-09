@@ -26,3 +26,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakeel-103&show_icons=true&locale=en" alt="sakeel-103" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakeel-103&" alt="sakeel-103" /></p>
+
+## 📊 Featured Project – Excel Dashboard: Working Hours
+
+An **interactive Excel dashboard** for analyzing employee working hours and customer engagement.
+
+<div align="center">
+  
+![Excel Dashboard Screenshot](https://github.com/YOUR_USERNAME/excel-dashboard-working-hours/blob/main/screenshot.png)
+
+</div>
+
+### 🔹 Features
+- Pivot tables & charts for better insights  
+- Slicers for quick filtering by employee  
+- Automated data updates  
+- Separate charts for working hours & customer engagement  
+
+📥 **[Download the Excel Dashboard](https://github.com/YOUR_USERNAME/excel-dashboard-working-hours/raw/main/Excel-Dashboard-Working-Hours.xlsm)**  
+*(Open in Microsoft Excel 2016 or later and enable macros for full functionality)*
+
