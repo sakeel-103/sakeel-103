@@ -33,7 +33,7 @@ An **interactive Excel dashboard** for analyzing employee working hours and cust
 
 <div align="center">
   
-![Excel Dashboard Screenshot](https://github.com/YOUR_USERNAME/excel-dashboard-working-hours/blob/main/screenshot.png)
+![Excel Dashboard Screenshot](https://github.com/sakeel-103/Excel-dashboard-working-hours/blob/master/screenshot.png)
 
 </div>
 
@@ -43,6 +43,5 @@ An **interactive Excel dashboard** for analyzing employee working hours and cust
 - Automated data updates  
 - Separate charts for working hours & customer engagement  
 
-📥 **[Download the Excel Dashboard](https://github.com/YOUR_USERNAME/excel-dashboard-working-hours/raw/main/Excel-Dashboard-Working-Hours.xlsm)**  
+📥 **[Download the Excel Dashboard](https://github.com/sakeel-103/Excel-dashboard-working-hours/raw/master/Excel-Dashboard-Working-Hours.xlsm)**  
 *(Open in Microsoft Excel 2016 or later and enable macros for full functionality)*
-
