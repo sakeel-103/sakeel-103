@@ -44,7 +44,7 @@ An **interactive Excel dashboard** for analyzing employee working hours and cust
 - Automated data updates  
 - Separate charts for working hours & customer engagement  
 
-📥 **[Download the Excel Dashboard]([https://github.com/sakeel-103/Excel-dashboard-working-hours/raw/master/Excel-Dashboard-Working-Hours.xlsm](https://github.com/sakeel-103/Excel-dashboard-working-hours.git))**  
+📥 **[Repository Link]([https://github.com/sakeel-103/Excel-dashboard-working-hours/raw/master/Excel-Dashboard-Working-Hours.xlsm](https://github.com/sakeel-103/Excel-dashboard-working-hours.git))**  
 *(Open in Microsoft Excel 2016 or later and enable macros for full functionality)*
 
 ====================================================================
@@ -68,5 +68,20 @@ It helps professionals, teams, and managers to **monitor daily, weekly, and mont
 |-----------|-------------|
 | `Excel-Dashboard-Working-Hours.xlsm` | Main macro-enabled Excel dashboard file |
 | `README.md` | Documentation and usage guide |
+
+## ✨ Features
+
+- 📅 **Date-Wise Tracking** – Log daily working hours easily.
+- 📊 **Dynamic Charts & KPIs** – Auto-updating graphs for performance trends.
+- ⚡ **Macro-Enabled Automation** – No need for manual recalculations.
+- 🎨 **Visually Appealing UI** – Clean and professional dashboard design.
+- 📈 **Performance Analysis** – Compare work hours with targets.
+- 📤 **One-Click Data Refresh** – Quickly update the dashboard with new entries.
+
+---
+
+
+📥 **[Repository Link]([[https://github.com/sakeel-103/Excel-dashboard-working-hours/raw/master/Excel-Dashboard-Working-Hours.xlsm](https://github.com/sakeel-103/Excel-dashboard-working-hours.git](https://github.com/sakeel-103/Excel-dashboard-working-hours_2.git)))**  
+
 
 
