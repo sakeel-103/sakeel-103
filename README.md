@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakeel-103&label=Profile%20views&color=0e75b6&style=flat" alt="sakeel-103" /> </p>
 
-- 🔭 I’m currently working on my ** Data Analyst || Data Analytics**
+- 🔭 I’m skilled in ** MERN Stack **
 
-- 🌱 I’m Skilled in **MERN STACK.**
+- 🌱 I’m currently working on my **Data Analyst || Data Analytics**
 
 - 📫 How to reach me **mdsakeel.sadabnoor786@gmail.com**
 
