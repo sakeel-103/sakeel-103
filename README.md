@@ -81,6 +81,31 @@ An **interactive Excel dashboard** for analyzing employee working hours and cust
 
 ====================================================================
 
+# ANALZED-E-COMMERCE-SALES-DASHBOARD-(POwer BI) ====
+
+## === Analyzed e-commerce sales data and developed an interactive dashboard using Power BI to visualize trends, KPIs, and business insights. === 
+
+Screenshot ==
+<img width="1163" height="652" alt="E-Commerce" src="https://github.com/user-attachments/assets/47913cf6-1292-494d-8624-02727855d0be" />
+
+===========================================================
+# 📊 E-Commerce Sales Dashboard
+
+## 📌 Overview
+This project involves analyzing e-commerce sales data and developing an **interactive Power BI dashboard** to visualize trends, KPIs, and business insights.  
+The dashboard provides a comprehensive view of sales performance across states, categories, customers, payment modes, and time periods.
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI** – Data visualization and dashboard creation
+- **Excel / CSV** – Raw data source
+- **DAX** – Custom measures and calculations
+- **Data Cleaning** – Power Query
+
+
+======================================================================
+
 ## Excel-dashboard-working-hours_2
 
 # 📊 Excel Dashboard - Working Hours & Performance Tracker
